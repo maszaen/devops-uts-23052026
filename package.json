@@ -1,0 +1,27 @@
+{
+  "name": "devops-uts-23052026",
+  "version": "1.0.0",
+  "description": "A practical implementation of GitHub CI/CD workflows utilizing Docker, Terraform, and Kubernetes.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maszaen/devops-uts-23052026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/maszaen/devops-uts-23052026/issues"
+  },
+  "homepage": "https://github.com/maszaen/devops-uts-23052026#readme"
+}
